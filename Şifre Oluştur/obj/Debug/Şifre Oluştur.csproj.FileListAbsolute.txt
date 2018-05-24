@@ -1,0 +1,9 @@
+C:\Users\Gokberk\source\repos\Şifre Oluştur\Şifre Oluştur\bin\Debug\Şifre Oluştur.exe.config
+C:\Users\Gokberk\source\repos\Şifre Oluştur\Şifre Oluştur\bin\Debug\Şifre Oluştur.exe
+C:\Users\Gokberk\source\repos\Şifre Oluştur\Şifre Oluştur\bin\Debug\Şifre Oluştur.pdb
+C:\Users\Gokberk\source\repos\Şifre Oluştur\Şifre Oluştur\obj\Debug\Şifre_Oluştur.Form1.resources
+C:\Users\Gokberk\source\repos\Şifre Oluştur\Şifre Oluştur\obj\Debug\Şifre_Oluştur.Properties.Resources.resources
+C:\Users\Gokberk\source\repos\Şifre Oluştur\Şifre Oluştur\obj\Debug\Şifre Oluştur.csproj.GenerateResource.Cache
+C:\Users\Gokberk\source\repos\Şifre Oluştur\Şifre Oluştur\obj\Debug\Şifre Oluştur.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\source\repos\Şifre Oluştur\Şifre Oluştur\obj\Debug\Şifre Oluştur.exe
+C:\Users\Gokberk\source\repos\Şifre Oluştur\Şifre Oluştur\obj\Debug\Şifre Oluştur.pdb
